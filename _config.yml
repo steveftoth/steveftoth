@@ -23,13 +23,14 @@ footer-links:
   flickr:
   github: steveftoth/steveftoth.github.io
   instagram:
-  linkedin: stoth
+  linkedin: toths
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: codekoan
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: channel/UCodltjKV668mhZDTSPAEu2g # channel/<your_long_string> or user/<user-name>
+  youtube: channel/UCgpyIDXkEmGf9hRaxeEPTMA # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
+  twitch: codekoan
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
